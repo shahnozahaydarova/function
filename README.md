@@ -1,2 +1,2 @@
-### Mathematical function - Factorial.
-### Karta raqamini tekshirish.
+### 1. Mathematical function - Factorial.
+### 2. Karta raqamini tekshirish.
