@@ -14,4 +14,7 @@ try:
             print("Karta raqami 16ta raqamdan iborat bo'lishi kerak qayta urinib ko'ring.")
 except ValueError:
     print("Siz karta raqamini kiritish o'rniga harf kiritdingiz,qayta urinib ko'ring.")
+
+# a input deb olingan
+
         
